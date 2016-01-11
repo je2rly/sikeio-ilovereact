@@ -1,7 +1,7 @@
 {
   "name": "ilovereact",
   "version": "1.0.0",
-  "description": "Learning react",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,4 @@
   "dependencies": {
     "browser-sync": "^2.9.3"
   },
-  "devDependencies": {
-    "postcss-cli": "^2.1.0"
-  }
 }
