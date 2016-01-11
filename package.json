@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.9.3"
+  },
+  "devDependencies": {
+    "postcss-cli": "^2.1.0"
   }
 }
