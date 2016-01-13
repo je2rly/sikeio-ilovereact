@@ -9,7 +9,10 @@
   "author": "je2rly",
   "license": "ISC",
   "repository": {
-        "type": "git",
-          "url": "git://github.com/je2rly/repository.git"
+    "type": "git",
+    "url": "git://github.com/je2rly/repository.git"
+  },
+  "dependencies": {
+    "browser-sync": "^2.9.3"
   }
 }
