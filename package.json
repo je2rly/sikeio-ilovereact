@@ -8,7 +8,4 @@
   },
   "author": "je2rly",
   "license": "ISC",
-  "dependencies": {
-    "browser-sync": "^2.9.3"
-  },
 }
