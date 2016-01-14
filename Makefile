@@ -1,3 +1,3 @@
-.PHONY:server
-server:
-    browser-sync start --files=index.html
+.PHONY: bsync
+bsync:
+    browser-sync start --server --files=index.html
